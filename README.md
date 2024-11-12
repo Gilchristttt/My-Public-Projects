@@ -1,7 +1,3 @@
-Voici un exemple de README pour votre projet de classification des maladies de la pomme de terre. Ce modèle inclut des sections expliquant l'utilisation de Postman et de FastAPI pour des tests concrets.
-
----
-
 # Potato Disease Classification
 
 Ce projet utilise un modèle de machine learning pour classifier les maladies des pommes de terre à partir d'images. En s'appuyant sur un dataset disponible sur [Kaggle](https://www.kaggle.com/), ce projet utilise FastAPI pour déployer le modèle et Postman pour effectuer des tests concrets.
